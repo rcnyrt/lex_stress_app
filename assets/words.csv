@@ -1,0 +1,7 @@
+word,syllables,syllable_lengths_ms,stressed_index,syllables
+acid,2,"[137, 233]",0,a-cid
+acidity,4,"[79, 206, 109, 127]",1,a-ci-di-ty
+acidity(slowed),4,"[198, 264, 179, 651]",1,a-ci-di-ty
+banana,3,"[137, 178, 173]",1,ba-na-na
+object(noun),2,"[265, 269]",0,ob-ject
+object(verb),2,"[230, 591]",1,ob-ject
