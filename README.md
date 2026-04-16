@@ -1,4 +1,4 @@
-# alex_stress_app
+# lex_stress_app
 
 A mobile application prototype that uses audio-synchronized vibrations to imitte lexical stress patterns.
 
