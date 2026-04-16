@@ -1,16 +1,5 @@
-# apk_vol1
+# alex_stress_app
 
-A new Flutter project.
+A mobile application prototype that uses audio-synchronized vibrations to imitte lexical stress patterns.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app uses higher-intensity vibrations for stressed syllables and lower-intensity vibrations for unstressed syllables, aiming to help learners accurately perceive and produce stress patterns.
